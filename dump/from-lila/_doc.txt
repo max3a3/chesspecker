@@ -1,0 +1,2 @@
+from puzzle2_puzzle exported as json in mongo compass
+https://github.com/lichess-org/lila-db-seed
